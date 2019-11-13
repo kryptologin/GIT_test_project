@@ -1,5 +1,5 @@
 <?php
-print ('hello world');
+print ('hello   world');
 //<!DOCTYPE html>
 //<html>
 //<h1>ПРИВЕТ</h1>
