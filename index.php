@@ -5,5 +5,4 @@ print ('<pre>
 <html>
 <h1>ПРИВЕТ</h1>
 </html>
-
 </pre>');
