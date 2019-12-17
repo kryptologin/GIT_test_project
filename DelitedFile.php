@@ -1,2 +1,0 @@
-<?php
-// init this file
