@@ -1,5 +1,10 @@
 .color {
-    color: red;
+     color: red;
+     font-size: 18px;
+     padding: 17px;
+ }
+.reader {
+    color: deepskyblue;
     font-size: 18px;
     padding: 17px;
 }
