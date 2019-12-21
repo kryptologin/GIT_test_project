@@ -17,3 +17,4 @@ print ('<pre>
 </pre>');
 print ('новая строка в которой будут изминения для Enother_branch ветки');
 print ('Здесь у нас будет код, который потом появится в коммите');
+print ('Кryptologin cмерджил kryptologins_branch');
