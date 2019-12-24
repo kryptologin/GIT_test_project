@@ -24,4 +24,4 @@ print ('Здесь у нас будет код, который потом поя
 print ('Кryptologin cмерджил kryptologins_branch<br>');
 print ('новая строка в которой будут изминения для Enother_branch ветки-2<br>');
 print ('Кryptologin cмерджил kryptologins_branch<br>');
-
+print ('новый коммит от kryptologins_branch<br>');
