@@ -1,5 +1,5 @@
 body {
-     color: red;
+     color: darkslateblue;
      text-decoration-color: red;
      font-size: 18px;
      padding: 17px;
@@ -9,10 +9,9 @@ p {
     font-size: 18px;
     padding: 17px;
 }
-.reader {
-      color: deepskyblue;
-      font-size: 18px;
-      padding: 17px;
+a {
+      color: darkcyan;
+      font-size: 20px;
 }
 .rsewder {
     color: yellowgreen;

@@ -1,6 +1,6 @@
 <?php
 // init this file
-print ('какой-то еще код<br>');
+print ('<h1>DelitedFile</h1>');
 print("добавляем текст с iMac'27<br>");
 print ('еще одна строка для обновления файла в GIT<br>');
 print ('какой-то еще код<br>');
