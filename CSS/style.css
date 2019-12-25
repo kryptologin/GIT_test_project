@@ -6,8 +6,11 @@ body {
  }
 p {
     color: red;
-    font-size: 18px;
-    padding: 17px;
+    font-size: 28px;
+}
+span {
+    color: darkmagenta;
+    text-transform: uppercase;
 }
 a {
       color: darkcyan;
